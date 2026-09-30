@@ -1,0 +1,2 @@
+// Interactive Custom Challenge
+// Modify playground.js to build your own complex scenario. Write an async/await function (which implicitly queues microtasks via Promises), throw a setTimeout inside it, and add a queueMicrotask() call. Watch how the runtime processes them step by step.

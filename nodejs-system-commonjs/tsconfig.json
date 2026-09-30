@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "types": ["node"],
+    "noEmit": true,
+    "module": "CommonJS",
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "strict": true,
+    "moduleDetection": "force",
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  }
+}
